@@ -1,4 +1,4 @@
-Certainly! Below is a template for a README file for your Secure Password Generator script. Feel free to customize it further based on your specific needs and preferences.
+
 
 ---
 
