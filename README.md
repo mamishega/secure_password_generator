@@ -15,7 +15,7 @@ Prerequisites
 
 Usage
 	1. Clone the repository:
-			git clone https://github.com/mamishega/secure_password_generator.git
+			git clone https://github.com/mamishega/secure_password_generator.git .
 	2. Run the script:
  			python secure_password_generator.py
   	3. Follow the prompts to enter the desired password length.
