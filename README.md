@@ -24,7 +24,7 @@ This is a simple script written in Python to generate secure random passwords. T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/secure-password-generator.git
+   git clone [https://github.com/your-username/secure-password-generator.git](https://github.com/mamishega/secure_password_generator.git)
    cd secure-password-generator
    ```
 
@@ -57,15 +57,4 @@ Generated Password: aB3fG2hI8jK
 
 The script includes error handling to address invalid user inputs. If the user enters a non-positive integer for the password length, a `ValueError` is raised, and an appropriate error message is displayed.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Python Secrets Module Documentation](https://docs.python.org/3/library/secrets.html)
-- [Python String Module Documentation](https://docs.python.org/3/library/string.html)
-
----
-
-Feel free to customize the README file further based on additional details or specific information you want to include.
