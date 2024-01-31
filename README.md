@@ -24,7 +24,7 @@ This is a simple script written in Python to generate secure random passwords. T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mamishega/secure_password_generator.git
+    https://github.com/mamishega/secure_password_generator.git
 
 2. Run the script:
 
